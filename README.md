@@ -13,3 +13,5 @@ This repo is for hosting Jupyter Notebooks problem resolutions for to the course
    2. [Exploratory Data with SQL](chapter%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 3. [Chapter 3: Geographical Patterns](chapter%203)
    1. [Launch Sites Geographic Data with Folium](chapter%203/lab-jupyter-launch-site-location-v2.ipynb)
+4. [Chapter 4: Machine Learning Prediction]
+   1. [First Stage Landing Prediction](chapter%204/SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb)
