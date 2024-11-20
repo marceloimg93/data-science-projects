@@ -11,3 +11,5 @@ This repo is for hosting Jupyter Notebooks problem resolutions for to the course
 2. [Chapter 2: Data Visualization](chapter%202)
    1. [Exploratory Data and Feature Engineering](chapter%202/jupyter-labs-eda-dataviz-v2.ipynb)
    2. [Exploratory Data with SQL](chapter%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+3. [Chapter 3: Geographical Patterns](chapter%203)
+   1. [Launch Sites Geographic Data with Folium](chapter%203/lab-jupyter-launch-site-location-v2.ipynb)
