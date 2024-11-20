@@ -8,3 +8,6 @@ This repo is for hosting Jupyter Notebooks problem resolutions for to the course
    1. [Data Collection: SpaceX API](chapter%201/jupyter-labs-spacex-data-collection-api-v2.ipynb)
    2. [Data Collection: Web Scraping](chapter%201/jupyter-labs-webscraping.ipynb)
    3. [Data Wrangling](chapter%201/labs-jupyter-spacex-Data%20wrangling-v2.ipynb)
+2. [Chapter 2: Data Visualization](chapter%202)
+   1. [Exploratory Data and Feature Engineering](chapter%202/jupyter-labs-eda-dataviz-v2.ipynb)
+   2. [Exploratory Data with SQL](chapter%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
